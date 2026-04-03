@@ -10,7 +10,8 @@
 - ☁️ Strong experience with **AWS & cloud-based systems**  
 - 📊 Worked on **data analytics, e-commerce & real-time platforms**  
 - 👩‍🏫 Experience in **leading teams & mentoring developers**  
-- 🌱 Currently exploring **AI integrations & system design improvements**  
+- 🌱 Currently exploring **AI integrations & system design improvements**
+- 🤖 Currently exploring AI by building real-world projects and integrating intelligent features into applications
 
 ---
 
